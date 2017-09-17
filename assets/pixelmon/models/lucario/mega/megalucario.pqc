@@ -1,0 +1,3 @@
+$body megalucario.smd
+$anim walk walk.smd
+$anim idle idle.smd
