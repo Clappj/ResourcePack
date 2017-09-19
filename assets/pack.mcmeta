@@ -1,0 +1,15 @@
+{
+  "pack": {
+	"pack_format": 2,
+    "description": "\u00A74\u2261\u00A78Pixelmon Black V0.8\u00A74\u2261     \u00A77Inspired by \u00A78\u00A7lPokemon Black 2"
+  },
+
+  "meta": {
+    "pack_type": 2,
+    "pack_version": "update 0.8",
+    "game_version": "1.10.2",
+    "pack_resolution": "64x",
+    "description": "Pixelmon Corrupt --     inspired by togedemaru",
+    "consists": "Pixelmon Textures"
+  }
+}
